@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyA2c_NmRATFI-gKacQUsZAkZopdH1j8rjk",
-  authDomain: "arabheritagehub.firebaseapp.com",
-  databaseURL: "https://arabheritagehub-default-rtdb.firebaseio.com",
-  projectId: "arabheritagehub",
-  storageBucket: "arabheritagehub.firebasestorage.app",
-  messagingSenderId: "966723291576",
-  appId: "1:966723291576:web:71829ec965a0752bb5a74d",
+apiKey: "AIzaSyCMuhN1Mdttd6Iok9NDAMYCktaEuEQ9eS8",
+authDomain: "hifashio.firebaseapp.com",
+databaseURL: "https://hifashio-default-rtdb.firebaseio.com",
+projectId: "hifashio",
+storageBucket: "hifashio.appspot.com",
+messagingSenderId: "899866948570",
+appId: "1:899866948570:web:235bc583efc10148cd46e3"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
